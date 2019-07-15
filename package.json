@@ -1,0 +1,22 @@
+{
+  "name": "byron-stomp",
+  "version": "1.0.1",
+  "description": "适用于react-native的stompjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/472647301/byron-stomp.git"
+  },
+  "keywords": [
+    "react-native-stompjs"
+  ],
+  "author": "Byron ZHU <472647301@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/472647301/byron-stomp/issues"
+  },
+  "homepage": "https://github.com/472647301/byron-stomp#readme"
+}
